@@ -18,24 +18,24 @@ a {
   text-decoration: none;
 }
 
-.ul{
+.ul {
   list-style-type: none;
 }
-.btn{
+.btn {
   padding: 12px 32px;
   font-size: 1rem;
   text-transform: uppercase;
   background: rgb(248, 217, 15);
   color: #222;
   border: 1px solid #fff;
-  cursor:pointer;
+  cursor: pointer;
 }
-.btn-light{
+.btn-light {
   /* background: rgb(255, 255, 255, 0.2); */
   background: transparent;
   color: #fff;
 }
-.btn-hover{
+.btn-hover {
   background: rgb(255, 255, 255, 0.2);
   color: #fff;
   transition: 0.3s;

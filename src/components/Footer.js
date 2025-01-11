@@ -51,8 +51,7 @@ const Footer = () => {
         <div className="right">
           <h4>About Myself</h4>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Civil and Structural Engineer with expertise in infrastructure design and project management, focused on sustainable, cost-effective solutions for Africa's infrastructure.
           </p>
           <div className="social">
             <FaFacebook

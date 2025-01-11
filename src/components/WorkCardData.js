@@ -1,6 +1,5 @@
 import pro1 from "../assets/project1.png";
 import pro2 from "../assets/project2.png";
-import pro3 from "../assets/project3.png";
 import pro4 from "../assets/project4.png";
 import pro5 from "../assets/project5.png";
 import pro6 from "../assets/project6.png";
@@ -24,7 +23,7 @@ const WorkCardData = [
     link: "https://nca.go.ke/",
   },
   {
-    imgsrc: pro3,
+    imgsrc: pro1,
     title: "Field Engineer",
     subtitle: "Ripana Contractors",
     date: "Jul 2020 – Dec 2021",

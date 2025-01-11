@@ -26,27 +26,26 @@
 .card p {
   padding: 10px 0;
 }
-.bar{
-    border-bottom: 1px solid #eee;
-    width: 10%;
-    margin: 1.5rem auto;
-    display: block;
+.bar {
+  border-bottom: 1px solid #eee;
+  width: 10%;
+  margin: 1.5rem auto;
+  display: block;
 }
-.btc{
-    font-size: 4rem;
-    font-weight: 600;
-    padding: 1rem 0;
+.btc {
+  font-size: 4rem;
+  font-weight: 600;
+  padding: 1rem 0;
 }
-.btn{
-    display:block;
-    width:80%;
-    margin: 2rem auto;
+.card .btn {
+  display: block;
+  width: 80%;
+  margin: 2rem auto;
 }
 @media screen and (max-width: 740px) {
   .card-container {
     max-width: 90%;
     margin: auto;
     grid-template-columns: 1fr;
-    grid-gap: 40px;
   }
 }
